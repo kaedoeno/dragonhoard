@@ -1,0 +1,14 @@
+{
+	"id": "dragonhoard",
+	"name": "Dragonhoard",
+	"display_name": "Dragonhoard",
+	"author": ["kaedoeno"],
+	"description": "collection of modded Balatro jokers and other game elements as i experiment with learning lua modding, themed after treasures and fantasy because it makes me happy",
+	"prefix": "drh",
+	"main_file": "dragonhoard.lua",
+	"priority": 0,
+	"badge_colour": "35f0ca",
+	"badge_text_colour": "ffffff",
+	"version": "0.0.1INDEV",
+	"dependencies": ["Steamodded (>=1.0.0~ALPHA-1225a)"]
+}
